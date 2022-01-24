@@ -1,0 +1,24 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "mongo-express-react-node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viacheslav-ua/mern.git"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node"
+  ],
+  "author": "Viacheslav-ua <atph@ukr.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viacheslav-ua/mern/issues"
+  },
+  "homepage": "https://github.com/Viacheslav-ua/mern#readme"
+}
