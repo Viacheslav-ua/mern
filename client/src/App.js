@@ -1,0 +1,17 @@
+import React from "react"
+import 'materialize-css'
+import { BrowserRouter } from "react-router-dom";
+import { useRoutes } from "./pages/routes";
+
+function App() {
+  const routes = useRoutes(false)
+  return (
+    <BrowserRouter>
+      <div className="container">
+        {routes}
+      </div>
+    </BrowserRouter>
+  );
+}
+
+export default App;
