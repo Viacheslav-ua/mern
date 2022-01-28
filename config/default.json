@@ -1,5 +1,6 @@
 {
   "port": 5000,
   "mongoUri": "mongodb+srv://Slava:135UIOP@cluster0.qqqx3.mongodb.net/app?retryWrites=true&w=majority",
-  "jwtSecret": "transmission code"
+  "jwtSecret": "transmission code",
+  "baseUrl": "http://localhost:5000"
 }

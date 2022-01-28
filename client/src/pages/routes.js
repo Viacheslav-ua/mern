@@ -11,7 +11,7 @@ export const useRoutes = isAuthenticated => {
         <>
         <Routes>
           {/* <Route path="/" element={<Layout />}> */}
-            <Route path="/link" element={<LinksPage />} />
+            <Route path="/links" element={<LinksPage />} />
             <Route path="/create" element={<CreatePage />} />
             <Route path="/detail/:id" element={<DetailPage />} />
             <Route path="*" element={<Navigate replace to="/create"/>} />
