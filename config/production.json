@@ -1,0 +1,6 @@
+{
+"port": 80,
+  "mongoUri": "",
+  "jwtSecret": "",
+  "baseUrl": ""
+}
